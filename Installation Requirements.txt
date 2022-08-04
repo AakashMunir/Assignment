@@ -1,0 +1,13 @@
+Install python
+Install Pycharm
+Go to pyachame Setting then go to Your project then go to Python Interpreter and Press the Plus button for add libraries
+Install selenium
+Install Pytest
+Install Pytest-html
+Install webdriver-manager
+
+Intall the webdriver-manager inside your project through pycharm terminal
+	pip install webdriver-manager
+
+For Run the test cases command
+pytest -v -s .\testCases\test_login.py
